@@ -1,0 +1,16 @@
+# Core ML and Transformers libraries
+torch
+transformers
+sentencepiece
+sentence-transformers
+
+# Data processing
+numpy
+pandas
+
+# Optional: for plotting benchmark graphs
+matplotlib
+seaborn
+
+# Utilities
+tqdm
