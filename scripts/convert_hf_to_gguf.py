@@ -81,8 +81,10 @@ except Exception as e:
 # Step 3: Convert HF weights → FP16 GGUF using llama.cpp
 print("Converting HF weights to FP16 GGUF format...")
 
-# Path to llama.cpp conversion script
-CONVERT_SCRIPT = "../llama.cpp/tools/convert-hf-to-gguf.py"
+# ✅ Correct path to llama.cpp conversion script
+#CONVERT_SCRIPT = "../llama.cpp/convert_hf_to_gguf.py"
+#CONVERT_SCRIPT = "/model-quantization-lab-project/llama.cpp/convert_hf_to_gguf.py"
+CONVERT_SCRIPT = "llama.cpp/convert_hf_to_gguf.py"
 
 # Local folder where HF weights are cached
 HF_LOCAL_PATH = TEMP_DIR / HF_MODEL.split("/")[-1]
