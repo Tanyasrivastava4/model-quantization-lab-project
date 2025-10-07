@@ -4,12 +4,14 @@ import time
 from pathlib import Path
 
 MODELS = {
-    "FP16": "../models/llama-2-7b-fp16.gguf",
-    "Q4_K_M": "../models/llama-2-7b-q4_K_M.gguf"
+    "FP16": "models/llama-2-7b-fp16.gguf",
+    "Q4_K_M": "models/llama-2-7b-q4_K_M.gguf"
 }
 
-LLAMA_BIN = "../llama.cpp/main"  # llama.cpp GPU binary
-LOG_PATH = Path("../logs/gpu_benchmark.log")
+LLAMA_BIN = "llama.cpp/build/bin/llama-gguf"  # or llama-cli if you prefer
+#LLAMA_BIN = "llama.cpp/build/bin/llama" 
+#LLAMA_BIN = "llama.cpp/main"  # llama.cpp GPU binary
+LOG_PATH = Path("logs/gpu_benchmark.log")
 PROMPTS = [
     "Explain artificial intelligence in simple words.",
     "Summarize Python programming language.",
