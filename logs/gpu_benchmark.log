@@ -2,33 +2,33 @@ GPU Benchmark Log
 ==================================================
 Model: FP16
 Prompt: Explain artificial intelligence in simple words.
-Time: 0.03s
+Time: 0.01s
 Output:
 
 --------------------------------------------------
 Prompt: Summarize Python programming language.
-Time: 0.01s
+Time: 0.00s
 Output:
 
 --------------------------------------------------
 Prompt: Write a short story about a robot.
-Time: 0.01s
+Time: 0.00s
 Output:
 
 --------------------------------------------------
 Model: Q4_K_M
 Prompt: Explain artificial intelligence in simple words.
-Time: 0.01s
+Time: 0.00s
 Output:
 
 --------------------------------------------------
 Prompt: Summarize Python programming language.
-Time: 0.01s
+Time: 0.00s
 Output:
 
 --------------------------------------------------
 Prompt: Write a short story about a robot.
-Time: 0.01s
+Time: 0.00s
 Output:
 
 --------------------------------------------------
