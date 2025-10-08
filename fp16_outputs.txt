@@ -1,0 +1,51 @@
+<|im_end|>
+<|im_start|>summarize
+<|im_end|>
+<|im_start|>user
+<|im_end|>
+
+
+# 2. Summarize Java Programming Language
+
+Summarize Java programming language. --max-tokens 256<|im_start|>user<|im_end|>
+
+<|im_start|>assistant
+<|im_end|>
+<|im_start|>summarize
+<|im_end|>
+<|im_start|>user
+<|im_end|>
+
+
+# 3. Summarize C Programming Language
+
+Summarize C programming language. --max-tokens 256<|im_start|>user<|im_end|>
+
+<|im_start|>assistant
+<|im_end|>
+<|im_start|>summarize
+<|im_end|>
+<|im_start|>user
+<|im_end|>
+
+
+# 4. Summarize PHP Programming Language
+
+Summarize PHP programming language. --max-tokens 256<|im_start|>user<|im_end|>
+
+<|im_start|>assistant
+<|im_end|>
+<|im_start|>summarize
+<|im_end|>
+<|im_start|>user
+<|im_end|>
+
+
+# 5. Summarize Python Programming Language
+
+Summarize Python programming language. --max-tokens 256<|im_start|>user<|im_end|>
+
+<|im_start|>assistant
+<|im_end|>
+<
+[0m

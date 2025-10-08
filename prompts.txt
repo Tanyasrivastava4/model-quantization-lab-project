@@ -1,0 +1,20 @@
+Explain AI in simple words.
+Summarize Python programming language.
+Write a short story about a robot.
+Translate 'Hello, how are you?' to French.
+What is quantum computing?
+Explain the importance of data privacy.
+Describe how a blockchain works.
+Give an example of recursion in Python.
+Explain Newton's laws of motion.
+Write a haiku about winter.
+Describe the process of photosynthesis.
+Summarize the plot of Romeo and Juliet.
+Explain the difference between supervised and unsupervised learning.
+Write a SQL query to find top 5 sales.
+Explain the theory of relativity.
+Describe the life cycle of a butterfly.
+Generate a motivational quote.
+Explain what a neural network is.
+Give a recipe for chocolate chip cookies.
+Explain climate change in simple words.
