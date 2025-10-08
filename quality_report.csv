@@ -1,1 +1,21 @@
-Prompt,FP16_Output,Q4_K_M_Output
+prompt,fp16_output,q4_output,cosine_similarity,degradation_%
+Explain AI in simple words.,,,1.0000001,-1.1920929e-05
+Summarize Python programming language.,,,1.0000001,-1.1920929e-05
+Write a short story about a robot.,,,1.0000001,-1.1920929e-05
+"Translate 'Hello, how are you?' to French.",,,1.0000001,-1.1920929e-05
+What is quantum computing?,,,1.0000001,-1.1920929e-05
+Explain the importance of data privacy.,,,1.0000001,-1.1920929e-05
+Describe how a blockchain works.,,,1.0000001,-1.1920929e-05
+Give an example of recursion in Python.,,,1.0000001,-1.1920929e-05
+Explain Newton's laws of motion.,,,1.0000001,-1.1920929e-05
+Write a haiku about winter.,,,1.0000001,-1.1920929e-05
+Describe the process of photosynthesis.,,,1.0000001,-1.1920929e-05
+Summarize the plot of Romeo and Juliet.,,,1.0000001,-1.1920929e-05
+Explain the difference between supervised and unsupervised learning.,,,1.0000001,-1.1920929e-05
+Write a SQL query to find top 5 sales.,,,1.0000001,-1.1920929e-05
+Explain the theory of relativity.,,,1.0000001,-1.1920929e-05
+Describe the life cycle of a butterfly.,,,1.0000001,-1.1920929e-05
+Generate a motivational quote.,,,1.0000001,-1.1920929e-05
+Explain what a neural network is.,,,1.0000001,-1.1920929e-05
+Give a recipe for chocolate chip cookies.,,,1.0000001,-1.1920929e-05
+Explain climate change in simple words.,,,1.0000001,-1.1920929e-05
